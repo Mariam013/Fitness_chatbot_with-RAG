@@ -1,0 +1,5 @@
+python
+openai
+sckit-learn
+pandas
+flask

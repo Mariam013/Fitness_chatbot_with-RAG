@@ -1,6 +1,6 @@
 python
 openai
-sckit-learn
+scikit-learn
 pandas
 flask
 tqdm

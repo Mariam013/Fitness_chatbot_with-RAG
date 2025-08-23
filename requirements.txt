@@ -3,3 +3,6 @@ openai
 sckit-learn
 pandas
 flask
+tqdm
+notebook
+ipywidgets

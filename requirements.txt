@@ -1,8 +1,7 @@
-python
 openai
 scikit-learn
 pandas
 flask
 tqdm
-notebook
 ipywidgets
+minsearch
